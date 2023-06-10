@@ -1,3 +1,26 @@
+# Movie Recommendation Application
+
+
+![Tech](https://img.shields.io/badge/TechStacks-React-blue)
+![Time](https://img.shields.io/badge/TIME%20TAKEN-6%20Hrs-red)
+![Responsive](https://img.shields.io/badge/Mobile%20Responsive%20-No-brightgreen)
+
+***
+
+## About section and skills gained from project
+- This project was coded using only React. 
+- I have gained in depth knowledge of various hooks and API´s while creating this project.
+- The API key used in this project is taken from Moviedb.org for study purposes. 
+- To run this project, get a free API key from Moviedb.org and run the code at localhost:3000.
+
+***
+
+### ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
+
+![Output](/final%20output.png)
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
